@@ -1,0 +1,18 @@
+# Dataset (large, downloadable via script — don't commit)
+data/
+
+# Trained models & generated outputs (regenerate via train.py)
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Env / secrets
+.env
+
+# OS
+.DS_Store
